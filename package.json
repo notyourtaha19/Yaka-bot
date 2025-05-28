@@ -1,7 +1,7 @@
 {
-  "name": "yakabot",
+  "name": "Mahiru-Bot",
   "version": "6.6.6",
-  "description": "Hi, I'm a WhatsApp Bot !!.",
+  "description": "🕊️ Mahiru Bot — A Fast, All-In-One WhatsApp Bot For Groups 🎯, Moderation 👑, Media 🎥, Fun 🎉, And More 🚀.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +14,7 @@
   "keywords": [
     "bot"
   ],
-  "author": "Yakashi13",
+  "author": "🗣️ Ͳ Ꭺ Ꮋ Ꭺ 🔥",
   "license": "AGPL-3.0 license",
   "bugs": {
     "url": "https://github.com/Yakashi13/Yaka-bot/issues"
